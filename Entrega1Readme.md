@@ -19,13 +19,12 @@ Se mide según la complejidad de las aplicaciones:
 - 2008: Uso de tecnologías AJAX, RIAs(Rich Internet Aplications) ejemplo: Google Drive, Google Docs. SaaS enterprise apps.
 - 2015: Aplicaciones en la Nube(Cloud)
 
-Dando lugar a cambios relevantes como:
+*Dando lugar a cambios relevantes como:*
   1. Ciclos de desarrollo más cortos, gracias a tecnologías como los frameworks, pasando de meses de trabajo a días.
   2. Dio una mejor distribución del trabajo en equipos
   3. Microservicios.
   4. Mejora en las interfaces gracias al UX/UI.
   5. Desarollo con API's.
-
 
 
 ### Lo que usan las web modernas
@@ -38,3 +37,8 @@ Dando lugar a cambios relevantes como:
 - Uso de OAuth, para autenticación.
 - Las single page aplication(SPA) o aplicaciones web de una sola página.
 - Persistencia poliglota, más vista en microservicios.
+
+### ¿Que es el Serverless?
+Aunque significa «sin servidor» esto no es así, lo que ocurre es que dejas de usar un servidor físico o uno en la nube claramente identificados por unos contenedores temporales y sin estado donde se ejecutan los códigos de las aplicaciones. Estos contenedores se crean en el momento que ejecutas la aplicación y luego desaparecen, por lo que el servidor pasa a ser una parte menos visible del sistema.
+
+Esta tecnología se asocia con FaaS que significa Function as a Service, que fue creada en 2014 por hook.io.
