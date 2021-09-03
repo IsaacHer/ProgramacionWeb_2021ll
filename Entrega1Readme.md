@@ -11,28 +11,28 @@ Nos da a conocer dos de los muchos perfiles o areas laborales por las que un des
 ### Evolución del desarrollo de software
 
 Se mide según la complejidad de las aplicaciones:
--Dark ages: El uso de lenguajes como Cobol. La mayoría del software se desarrollaba y era utilizado por la misma persona u organización. 
--1984: Nace el computador personal y con ello las primeras aplicaciones de escritorio. Que eran llamadas aplicaciones Legacy o aplicaciones heredadas.
--2001: Sitios web transaccionales para diferentes empresas de comercio, transporte, bancos, entre otros. 
--2008: Uso de tecnologías AJAX, RIAs(Rich Internet Aplications) ejemplo: Google Drive, Google Docs. SaaS enterprise apps.
--2015: Aplicaciones en la Nube(Cloud)
+- Dark ages: El uso de lenguajes como Cobol. La mayoría del software se desarrollaba y era utilizado por la misma persona u organización. 
+- 1984: Nace el computador personal y con ello las primeras aplicaciones de escritorio. Que eran llamadas aplicaciones Legacy o aplicaciones heredadas.
+- 2001: Sitios web transaccionales para diferentes empresas de comercio, transporte, bancos, entre otros. 
+- 2008: Uso de tecnologías AJAX, RIAs(Rich Internet Aplications) ejemplo: Google Drive, Google Docs. SaaS enterprise apps.
+- 2015: Aplicaciones en la Nube(Cloud)
 
 Dando lugar a cambios relevantes como:
-  1.Ciclos de desarrollo más cortos, gracias a tecnologías como los frameworks, pasando de meses de trabajo a días.
-  2.Dio una mejor distribución del trabajo en equipos
-  3.Microservicios.
-  4.Mejora en las interfaces gracias al UX/UI.
-  5.Desarollo con API's.
+  1. Ciclos de desarrollo más cortos, gracias a tecnologías como los frameworks, pasando de meses de trabajo a días.
+  2. Dio una mejor distribución del trabajo en equipos
+  3. Microservicios.
+  4. Mejora en las interfaces gracias al UX/UI.
+  5. Desarollo con API's.
 
 
 
 ### Lo que usan las web modernas
--lenguajes de maquetado y estilo como HTML5/CSS3. 
--Servicios Rest en formato JSON o uso de GraphQL. 
--Tendencia a aplicar arquitecturas con microservicios y Serverless. 
--Se emplean servicios de redes sociales para la parte de loggin. 
--Orientada a la nube, Cloud Driven, lo que nos permite su uso descentralizado en todo momento.
--Luego esta el uso de Responsive Design que beneficia el uso de dispositivos mobile. 
--Uso de OAuth, para autenticación.
--Las single page aplication(SPA) o aplicaciones web de una sola página.
--Persistencia poliglota, más vista en microservicios.
+- lenguajes de maquetado y estilo como HTML5/CSS3. 
+- Servicios Rest en formato JSON o uso de GraphQL. 
+- Tendencia a aplicar arquitecturas con microservicios y Serverless. 
+- Se emplean servicios de redes sociales para la parte de loggin. 
+- Orientada a la nube, Cloud Driven, lo que nos permite su uso descentralizado en todo momento.
+- Luego esta el uso de Responsive Design que beneficia el uso de dispositivos mobile. 
+- Uso de OAuth, para autenticación.
+- Las single page aplication(SPA) o aplicaciones web de una sola página.
+- Persistencia poliglota, más vista en microservicios.
