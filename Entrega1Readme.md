@@ -8,7 +8,7 @@ El inidice de RedMonk publicado en enero sigue teniendo en primer lugar a JavaSc
 Nos da a conocer dos de los muchos perfiles o areas laborales por las que un desarrolador de sofware puede indagar, las cuales son el **Frontend** y **Backend**. En el proceso de elaborarion del sofware el Frontend es la vista que consigue percibir el usuario, todas estos botones, links, parrafos, la forma en la que la informacion se muestra, su orden y estilo. Puede ser un dolor de cabeza en el momento cuando el cliente decide cambiar la paleta de colores o las transiciones, son detalles que hacen que sea tal vez molesto, por que no es el gusto propio, es llegar a hacer que sea genial para el cliente. Por otro lado el Backend es la capa de acceso a datos, es la solución que no es directamente accesible por los usuarios, además contiene la lógica de la aplicación que maneja dichos datos. En ocasiones existen problemas des compatibilidad a la hora de conectar ambas partes por lo que es recomendable obtener conocimeindo acerca de los dos perfiles.
 ![Aqui va la fotico de Front y back](https://1.bp.blogspot.com/-q23NCGYCM0w/XThp7SW9oFI/AAAAAAAAAEc/sLpg-QCCb8ECW7uq9DFX58BYml62MUe-gCLcBGAs/s1600/frontend-vs-backend-web-development.jpg)
 
-##Evolución del desarrollo de software
+### Evolución del desarrollo de software
 
 Se mide según la complejidad de las aplicaciones:
 -Dark ages: El uso de lenguajes como Cobol. La mayoría del software se desarrollaba y era utilizado por la misma persona u organización. 
@@ -26,7 +26,7 @@ Dando lugar a cambios relevantes como:
 
 
 
-##Lo que usan las web modernas
+### Lo que usan las web modernas
 -lenguajes de maquetado y estilo como HTML5/CSS3. 
 -Servicios Rest en formato JSON o uso de GraphQL. 
 -Tendencia a aplicar arquitecturas con microservicios y Serverless. 
